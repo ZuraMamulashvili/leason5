@@ -14,11 +14,26 @@ display: flex;
 }
 
 header{
-    background-color: rgb(187, 187, 179);
+    background-color: rgb(7, 11, 70);
     height: 70px;
+    align-items: center;
 }
 
 header a{
-color: blue;
+color: rgb(247, 247, 252);
 text-decoration: none;
+}
+header .container {
+    justify-content: space-between;
+}
+.notification-block {
+    text-align: center;
+    padding: 10px 0;
+    background-color: rgba(166, 127, 204, 0.767);
+    color: white;
+
+}
+.notification-block a {
+    color: rgb(15, 3, 1);
+    text-decoration: none;
 }
