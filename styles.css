@@ -37,3 +37,12 @@ header .container {
     color: rgb(15, 3, 1);
     text-decoration: none;
 }
+
+.welcom-conteiner img{
+max-width: 60%;
+}
+
+.welcom-conteiner .text-wrappers{
+    width: 30%;
+
+}
