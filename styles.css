@@ -49,4 +49,27 @@ max-width: 100%;
     background-color: rgb(231, 222, 212);
 }
 
+.d-flex{
+    display: flex;
+}
+.bye-btm{
+    
+}
 
+.card{
+    width: 25%;
+}
+
+.card .prodact-img{
+    width: 100%;
+    height: 120px;
+    border-radius: 25px;
+
+}
+.card h1{
+    font-size: 24px;
+    margin: 0 0 10px;
+}
+.card p{
+    margin: 0;
+}
