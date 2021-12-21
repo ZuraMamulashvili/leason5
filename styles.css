@@ -76,6 +76,12 @@ max-width: 100%;
     position: relative;
 }
 
+.favorites{
+position: absolute;
+top: 20px;
+right: 20px;
+
+}
 .card{
     width: 25%;
 }
