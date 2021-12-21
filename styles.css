@@ -89,6 +89,7 @@ right: 20px;
 .card .prodact-img{
     width: 100%;
     height: 120px;
+    display: block;
     border-radius: 25px;
 
 }
