@@ -72,6 +72,13 @@ max-width: 100%;
 }
 
 
+.heder-2{
+    height: 50px;
+    background-color: rgb(119, 25, 8);
+    width: 100%;
+
+}
+
 .img-container{
     position: relative;
 }
