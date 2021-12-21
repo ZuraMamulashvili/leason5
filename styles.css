@@ -49,11 +49,21 @@ max-width: 100%;
     background-color: rgb(231, 222, 212);
 }
 
+
 .d-flex{
     display: flex;
 }
-.bye-btm{
-    
+
+
+
+.buy-btn{
+   align-items: center;
+   gap: 5px;
+   background-color: rgb(12, 70, 73);
+   padding: 5px 10px;
+   color: white;
+   border-radius: 12px;
+   height: 30px;
 }
 
 .card{
